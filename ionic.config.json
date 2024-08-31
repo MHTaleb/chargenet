@@ -1,0 +1,7 @@
+{
+  "name": "ChargeNet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
