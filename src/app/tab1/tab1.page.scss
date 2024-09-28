@@ -1,0 +1,9 @@
+#map {
+    width: 100%;  // Ensures the map takes full width of the container
+    height: 100%; // Ensures the map takes full height of the container
+    min-height: 500px; // Optional: ensures a minimum height for the map
+  }
+
+.leaflet-routing-alternatives-container {
+    color: black;
+}
